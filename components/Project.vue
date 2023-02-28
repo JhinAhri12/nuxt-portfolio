@@ -1,6 +1,6 @@
 <template>
     <div class="row mx-auto">
-        <div class="card col-sm-12 col-md-3 card-projet mb-4 me-2" >
+        <div class="card col-sm-12 card-projet mb-4 me-2" >
             <img src="../assets/img/project1.jpg" class="card-img-top " alt="projet">
             <div class="card-body ">
                 <h3 class="card-title color-nuxt">Nuxt Job</h3>
@@ -8,7 +8,7 @@
                 <a href="#" class="btn btn-secondary btn-lg">Voir le projet</a>
             </div>
         </div>
-        <div class="card col-sm-12 col-md-4 card-projet mb-4 me-2">
+        <div class="card col-sm-12 card-projet mb-4 me-2">
             <img src="../assets/img/project1.jpg" class="card-img-top" alt="projet">
             <div class="card-body">
                 <h3 class="card-title color-nuxt">Nuxt Disney</h3>
@@ -16,7 +16,7 @@
                 <a href="#" class="btn btn-secondary btn-lg">Voir le projet</a>
             </div>
         </div>
-        <div class="card col-sm-12 col-md-4 card-projet mb-4 me-2">
+        <div class="card col-sm-12  card-projet mb-4 me-2">
             <img src="../assets/img/project1.jpg" class="card-img-top" alt="projet">
             <div class="card-body">
                 <h3 class="card-title color-nuxt">Nuxt Plants</h3>
@@ -24,7 +24,7 @@
                 <a href="#" class="btn btn-secondary btn-lg">Voir le projet</a>
             </div>
         </div>
-        <div class="card col-sm-12 col-md-4 card-projet mb-4 me-2">
+        <div class="card col-sm-12  card-projet mb-4 me-2">
             <img src="../assets/img/project1.jpg" class="card-img-top" alt="projet">
             <div class="card-body">
                 <h3 class="card-title color-nuxt">Nuxt Blog</h3>
@@ -32,7 +32,7 @@
                 <a href="#" class="btn btn-secondary btn-lg">Voir le projet</a>
             </div>
         </div>
-        <div class="card col-sm-12  col-md-4 card-projet mb-4 me-2">
+        <div class="card col-sm-12 card-projet mb-4 me-2">
             <img src="../assets/img/project1.jpg" class="card-img-top" alt="projet">
             <div class="card-body">
                 <h3 class="card-title color-nuxt">Nuxt Currency</h3>
