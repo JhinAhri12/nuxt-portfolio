@@ -3,11 +3,16 @@
         <div class="container">
             <h1><strong>Bienvenue sur mon portfolio</strong>!</h1>
             <p>Découvrez mes projets en cours.</p>
-            <a class="btn btn-flat" href="#">Je découvre les projets</a>
+            <a class="btn btn-flat btn-lg btn-nuxt" href="#">Je découvre les projets</a>
         </div>
     </div>
 </template>
 <style scoped>
+.btn-nuxt{
+    border: 1px solid white;
+    background-color: black;
+    color: #24e1bd;
+}
 .banner {
   background-size: cover;
   background-position: center;
